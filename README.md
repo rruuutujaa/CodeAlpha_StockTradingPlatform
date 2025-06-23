@@ -78,6 +78,31 @@ A simulated Stock Trading Platform built in Java that provides a realistic tradi
 - Object composition
 - Method overriding (toString)
 
-## 📊 Sample Output
+## 🎯 Learning Outcomes
+- Object-Oriented Programming with multiple classes
+- HashMap and ArrayList implementation
+- Real-time data simulation
+- User session management
+- Financial calculations and portfolio tracking
+- Exception handling and input validation
 
-### Market Data Display:
+## 🔧 Advanced Features
+- **Dynamic Price Simulation** - Stocks fluctuate realistically
+- **Portfolio Performance** - Track gains/losses over time
+- **Multi-User System** - Support for multiple trading accounts
+- **Transaction Logging** - Complete audit trail
+- **Risk Management** - Prevents overselling and insufficient funds
+
+## 👤 Author
+**Rutuja** - CodeAlpha Java Programming Intern
+
+## 📝 License
+This project is part of CodeAlpha internship program.
+
+---
+### 🔗 Connect with me:
+- GitHub: [@rruutujaa](https://github.com/rruutujaa)
+
+
+---
+**Repository**: https://github.com/rruutujaa/CodeAlpha_StockTradingPlatform
